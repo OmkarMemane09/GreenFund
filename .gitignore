@@ -1,0 +1,20 @@
+# Compiled Java files & build artifacts
+*.class
+*.jar
+*.war
+/build/
+/target/
+/bin/
+/dist/
+
+# IDE Workspaces & metadata
+.metadata/
+workspace/
+.idea/
+*.iml
+.vscode/
+
+# Logs & temp files
+*.log
+.DS_Store
+Thumbs.db
